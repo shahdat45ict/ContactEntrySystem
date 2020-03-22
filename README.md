@@ -19,6 +19,6 @@ You can also build and run the projects with *Visual Studio 2019* or *Visual Stu
 ## Storage
 To minimize runtime dependencies, emmbaded NoSQL database [LiteDb](https://www.litedb.org/) has been used for data storage. You can update database from  **LiteDbOptions** section under the **appsettings.json** file.
 
-Thank you for your time
+Happy coding!
 
 Shahdat

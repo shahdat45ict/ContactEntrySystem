@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/.vs/Contact.Entry
+/src/Contact.Entry.Api/bin/Debug/netcoreapp3.1
+/src/Contact.Entry.Api/obj
+/src/Contact.Entry.Api/SingleStone.db
+/src/Contact.Entry.Api/SingleStone-log.db
+/src/Contact.Entry.Tests/bin/Debug/netcoreapp3.1
+/src/Contact.Entry.Tests/obj

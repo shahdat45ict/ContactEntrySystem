@@ -1,8 +1,8 @@
 # Simple Contact Entry System
-RESTfull Web API CRUD operations with ASP.NET Core 3.1 and LiteDb
+RESTfull Web API CRUD operations with ASP.NET Core 3.1 and LiteDb.
 
 ## Build and Run
-This simple contact entry system can be build and run from any machine that has [.NET Core 3.1 SDK](https://dotnet.microsoft.com/download/dotnet-core/3.1) installed.
+This simple contact entry system can be build and run from any machine that has [.NET Core 3.1 SDK](https://dotnet.microsoft.com/download/dotnet-core/3.1) installed on it.
 
 Navigate to the **Contact.Entry.Api** directory and run following command to launch the the web api. 
 

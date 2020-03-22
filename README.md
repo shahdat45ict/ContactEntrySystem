@@ -14,5 +14,11 @@ Navigate to the **Contact.Entry.Tests** directory and run following command to r
 
 `dotnet test`
 
+You can also build and run the projects with *Visual Studio 2019* or *Visual Studio Code*.
+
 ## Storage
 To minimize runtime dependencies the emmbaded NoSQL database [LiteDb](https://www.litedb.org/) has been used for data storage. You can update database from  **LiteDbOptions** section under the **appsettings.json** file.
+
+Thank you for your time
+
+Shahdat
